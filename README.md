@@ -141,12 +141,12 @@ Customer-Segmentation-Analysis/
 ├── Customer_Segmentation_Analysis.ipynb
 ├── README.md
 ├── screenshots/
-│   ├── rfm_analysis.png
-│   ├── elbow_method.png
-│   ├── customer_clusters.png
-│   └── cluster_distribution.png
-│
-└── Customer_Segmentation_Report.pdf
+    ├── rfm_analysis.png
+    ├── elbow_method.png
+    ├── customer_clusters.png
+    └── cluster_distribution.png
+
+
 ```
 
 ---
